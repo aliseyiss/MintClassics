@@ -17,16 +17,11 @@ Open the 'Mint_Notebook.ipynb' file using Azure Data Studio. The notebook conven
 
 4) SQL Codes in Separate Files - Consider Creating Views
 
-Each SQL code is organized in separate files. It is recommended to create views for enhanced query readability. Activation of the comment lines within the code files enables the creation of views.
+  Each SQL code is organized in separate files. It is recommended to create views for enhanced query readability. Activation of the        comment lines within the code files enables the creation of views.
 
 
-Creating view is adviced.
+  Creating view is adviced.
 
-
-
-Overview
-
-In this project, you will step into the shoes of an entry-level data analyst at the fictional Mint Classics Company, helping to analyze data in a relational database with the goal of supporting inventory-related business decisions that lead to the closure of a storage facility.
 
 The Project Scenario
 
